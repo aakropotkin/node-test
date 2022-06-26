@@ -1,0 +1,16 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "echo '\"hello\"' > greeting.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-packlist": "^5.1.0"
+  }
+}
